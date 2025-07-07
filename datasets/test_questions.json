@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the leave policy mentioned in the document?",
+    "expected_answer": "Employees are entitled to 15 days of paid leave annually."
+  },
+  {
+    "question": "Who should be contacted for IT support?",
+    "expected_answer": "You should contact the IT helpdesk at helpdesk@company.com"
+  }
+]

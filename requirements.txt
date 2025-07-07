@@ -1,0 +1,10 @@
+openai==0.27.10
+langchain
+langchain-community
+llama-index
+haystack
+sentence-transformers
+faiss-cpu
+requests
+
+
